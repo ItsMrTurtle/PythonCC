@@ -14,7 +14,6 @@ Created on Wed Apr 22 18:10:51 2020
 
 #---------------------------------------------------------------------------
 
-# Sim made me do this!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #Input First Name and Last name for 2 names 
 print("Welcome to my Mashup Capstone Project!")
 name1 = input("Enter the name of guy #1 (First Last): ")
